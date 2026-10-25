@@ -8,7 +8,7 @@ Exploratory data analysis of Mexican property listings, built with Python in a J
 
 - Three CSV files of Mexican property listings, cleaned and combined into one dataset
 - **1,736 listings** across Mexican states, with 6 columns: `property_type`, `state`, `lat`, `lon`, `area_m2`, `price_usd`
-- Source: [add where the data came from]
+- Source: WorldQuant University
 
 ## Tools Used
 
